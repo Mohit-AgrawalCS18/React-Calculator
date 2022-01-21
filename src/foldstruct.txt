@@ -1,0 +1,65 @@
+Calculator-[
+  ->buttons
+  ->operation
+  123+234
+]
+// const add = (currvalue, sym) => {
+  //   if (sym !== "" && sym !== "+") {
+  //     if ("-" === sym) {
+  //       setcount(count - currvalue);
+  //     }
+  //     if ("*" === sym) {
+  //       setcount(count * currvalue);
+  //     }
+  //   } else {
+  //     setcount(count + currvalue);
+  //   }
+  //   setsymbol("+");
+  //   setvalue("");
+  // };
+
+  // const subtract = (currvalue, sym) => {
+  //   if (sym !== "" && sym !== "-") {
+  //     if ("+" === sym) {
+  //       setcount(count + currvalue);
+  //     }
+  //     if ("*" === sym) {
+  //       setcount(count * currvalue);
+  //     }
+  //   }else {
+  //     setcount(currvalue-count);
+  //   }
+  //   setsymbol("-");
+  //   setvalue("");
+  // };
+  // const multiply = (currvalue, sym) => {
+  //   if (sym !== "" && sym !== "*") {
+  //     if ("+" === sym) {
+  //       setcount(count*currvalue)
+  //       setcount(count + currvalue);
+  //     }
+  //     if ("-" === sym) {
+  //       setcount(count - currvalue);
+  //     }
+  //   } else {
+  //     if (count === 0) {
+  //       setcount(1*currvalue)
+  //     }else{
+  //       setcount(count*currvalue)
+  //     }
+  //   }
+  //   setsymbol("*");
+  //   setvalue("");
+  // };
+
+  // const equal = (val, num, sym) => {
+  //   if ("-" === sym) {
+  //     setanswer(num - val);
+  //   }
+  //   if ("+" === sym) {
+  //     setanswer(num + val);
+  //   }
+  //   if ("*" === sym) {
+  //     setanswer(num * val);
+  //   }
+  // };
